@@ -1,0 +1,4 @@
+name = "tdse"
+uuid = "5eeab737-551a-40e3-8168-62e47aade1ef"
+authors = ["xinshuoyang <xinshuoyang@gmail.com>"]
+version = "0.1.0"
